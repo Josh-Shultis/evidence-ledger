@@ -1,5 +1,7 @@
 # Evidence Ledger
 
+[![Validate synthetic portfolio](https://github.com/Josh-Shultis/evidence-ledger/actions/workflows/validate.yml/badge.svg)](https://github.com/Josh-Shultis/evidence-ledger/actions/workflows/validate.yml)
+
 Evidence Ledger is a local Python tool for organizing security-report evidence without silently throwing away important differences between files.
 
 I built it because real research folders get messy fast: multiple report drafts, repeated filenames, revised screenshots, exported PDFs, and several files tied to the same ticket. A filename or ticket number is not enough to decide that two artifacts are the same.
