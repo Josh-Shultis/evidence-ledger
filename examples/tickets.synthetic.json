@@ -1,0 +1,12 @@
+{
+  "tickets": [
+    {
+      "id": "CASE-DEMO-001",
+      "label": "Synthetic stored-content report"
+    },
+    {
+      "id": "CASE-DEMO-002",
+      "label": "Synthetic state-change report"
+    }
+  ]
+}
