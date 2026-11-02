@@ -1,4 +1,6 @@
-# Evidence Ledger
+# Security Report Evidence Deduplication & Bundle-Curation Tool
+
+Evidence Ledger is a local Python utility for hashing artifacts, comparing report versions, preserving distinct evidence, and building review bundles with explicit manual-review states. It is a focused curation tool, not the main Security RAG platform.
 
 [![Validate synthetic portfolio](https://github.com/Josh-Shultis/evidence-ledger/actions/workflows/validate.yml/badge.svg)](https://github.com/Josh-Shultis/evidence-ledger/actions/workflows/validate.yml)
 
