@@ -26,3 +26,22 @@ VRP_Best_Versions_*/
 *.zip
 *.7z
 *.tar*
+
+# Credentials, browser sessions, and authenticated material
+.env
+.env.*
+!.env.example
+*cookie*
+*cookies*
+*credential*.json
+*credentials*.json
+*client_secret*.json
+*token*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+browser-profile*/
+browser_profiles*/
